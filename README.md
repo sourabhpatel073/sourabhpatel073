@@ -1,3 +1,6 @@
+# 💫 About Me:
+<br># 💫 About Me:<br><br>An aspiring Full Stack Developer  from India. <br>  <br> <br><br>  - ➡️ 🌱 I’m currently learning  : *Typescript* <br><br>  - ➡️ 📫 How to reach me : *tejaspedge512@gmail.com*  <br><br>  - ➡️ ⚡ Fun fact *“Java is to JavaScript what car is to Carpet.”*<br><br>  - ➡️ 🌱 I’m currently learning  : *Typescript* <br><br>  - ➡️ 📫 How to reach me : *tejaspedge512@gmail.com*  <br><br>  - ➡️ ⚡ Fun fact *“Java is to JavaScript what car is to Carpet.”*<br><br><br><br>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sourabhpatel073) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourabhpatel073) 
