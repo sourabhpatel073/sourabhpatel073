@@ -1,5 +1,6 @@
 # 💫 About Me:
-<br># 💫 About Me:<br><br>An aspiring Full Stack Developer  from India. <br>  <br> <br><br>  - ➡️ 🌱 I’m currently learning  : *Typescript* <br><br>  - ➡️ 📫 How to reach me : *sourabhpatel@gmail.com*  <br><br>  - ➡️ ⚡ Fun fact *“Java is to JavaScript what car is to Carpet.”*<br><br>  - ➡️ 🌱 I’m currently learning  : *Typescript* <br><br>  - ➡️ 📫 How to reach me : *sourabhpatel@gmail.com*  <br><br>  - ➡️ ⚡ Fun fact *“Java is to JavaScript what car is to Carpet.”*<br><br><br><br>
+<br># 💫 About Me:<br><br>Aspiring ( MERN ) Full Stack Web Developer, high Adaptability to learn and collaborate in a rapidly changing environment and
+compositions, eager to obtain a challenging position Which willhelp to expand learning and build skills. <br>  <br> <br><br>  - ➡️ 🌱 I’m currently learning  : *Typescript* <br><br>  - ➡️ 📫 How to reach me : *sourabhpatel@gmail.com*  <br><br>  - ➡️ ⚡ Fun fact *“Java is to JavaScript what car is to Carpet.”*<br><br>  - ➡️ 🌱 I’m currently learning  : *Typescript* <br><br>  - ➡️ 📫 How to reach me : *sourabhpatel@gmail.com*  <br><br>  - ➡️ ⚡ Fun fact *“Java is to JavaScript what car is to Carpet.”*<br><br><br><br>
 
 
 ## 🌐 Socials:
