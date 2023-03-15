@@ -1,10 +1,15 @@
 # 💫 About Me:
-<br># 💫 About Me:<br><br>Aspiring ( MERN ) Full Stack Web Developer, high Adaptability to learn and collaborate in a rapidly changing environment and
-compositions, eager to obtain a challenging position Which willhelp to expand learning and build skills. <br>  <br> <br><br>  - ➡️ 🌱 I’m currently learning  : *Typescript* <br><br>  - ➡️ 📫 How to reach me : *sourabhpatel@gmail.com*  <br><br>  - ➡️ ⚡ Fun fact *“Java is to JavaScript what car is to Carpet.”*<br><br>  - ➡️ 🌱 I’m currently learning  : *Typescript* <br><br>  - ➡️ 📫 How to reach me : *sourabhpatel@gmail.com*  <br><br>  - ➡️ ⚡ Fun fact *“Java is to JavaScript what car is to Carpet.”*<br><br><br><br>
+<br># 💫Aspiring ( MERN ) Full Stack Web Developer from India,<br/> 
+
+
+- ➡️ 🌱 I’m currently learning  : *Typescript* <br><br>  
+- ➡️ 📫 How to reach me : *sourabhpatel@gmail.com*  <br><br>  
+- ➡️ ⚡ Fun fact *“Java is to JavaScript what car is to Carpet.”*<br><br>  
+- ➡️ ⚽ Portfolio : https://sourabhpatel073.github.io
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sourabhpatel073) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourabhpatel073) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourabhpatel073) 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
