@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br># 💫Aspiring ( MERN ) Full Stack Web Developer from India,<br/> 
+<br># 💫Aspiring MERN Full Stack developer .A passionate problem solver with a strong foundation in web development, with experience in building  web applications using modern technologies, including MongoDB, Express.js, React.js, Node.js and Java Script.<br/> 
 <img>
 
 ![68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966](https://user-images.githubusercontent.com/112695694/229593367-3f644cee-b021-46d1-9781-9f1a08f9d77d.gif)
