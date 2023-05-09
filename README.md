@@ -6,7 +6,6 @@
 
 
 </img>
-- ➡️ 🌱 I’m currently learning  : *Backend* <br><br>  
 - ➡️ 📫 How to reach me : *sourabhpatel@gmail.com*  <br><br>  
 - ➡️ ⚡ Fun fact *“Java is to JavaScript what car is to Carpet.”*<br><br>  
 - ➡️ ⚽ Portfolio : https://sourabhpatel073.github.io/
