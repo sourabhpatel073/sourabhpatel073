@@ -1,6 +1,12 @@
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"></img>
 # 💫 About Me:
-<br># 💫Aspiring MERN Full Stack developer .A passionate problem solver with a strong foundation in web development, with experience in building  web applications using modern technologies, including MongoDB, Express.js, React.js, Node.js and Java Script.<br/> 
+<br># 💫Dynamic full-stack developer skilled in the MERN stack and wellversed with Generative AI integrations. Combines frontend
+prowess with robust server-side API creation and AI-driven
+solutions, always pushing the envelope of modern web trends.
+Expert in implementing Prompt Engineering techniques, valuing
+both the precision of technology and the collaborative spirit of
+teamwork. Approaches challenges with a blend of practical
+innovation and data-driven insights.<br/> 
 
 - ➡️ 📫 How to reach me : *sourabhpatel@gmail.com*  <br><br>  
 - ➡️ ⚡ Fun fact *“Java is to JavaScript what car is to Carpet.”*<br><br>  
